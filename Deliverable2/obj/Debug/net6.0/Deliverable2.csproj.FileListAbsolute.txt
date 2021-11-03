@@ -1,0 +1,16 @@
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.GlobalUsings.g.cs
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.csproj.AssemblyReference.cache
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.AssemblyInfoInputs.cache
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.AssemblyInfo.cs
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.csproj.CoreCompileInputs.cache
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.exe
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.deps.json
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.runtimeconfig.json
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.dll
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\bin\Debug\net6.0\ref\Deliverable2.dll
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\bin\Debug\net6.0\Deliverable2.pdb
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.dll
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\ref\Deliverable2.dll
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.pdb
+C:\Users\Dans-LT\source\repos\Deliverable2\Deliverable2\obj\Debug\net6.0\Deliverable2.genruntimeconfig.cache
